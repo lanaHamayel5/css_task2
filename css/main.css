@@ -1,0 +1,36 @@
+.title{
+    text-align: center;
+}
+
+.footer{
+    text-align: center;
+}
+
+.connection{
+    text-align: center;
+    /* background-color:bisque; */
+}
+.connection-ways{
+    background-color: rgb(165, 220, 241);
+}
+.connection1{
+    text-align:center;
+    float:left;
+    width:32%;
+}
+.connection2{
+    text-align:center;
+    float:left;
+    width:32%;
+   
+}
+.connection3{
+    text-align:center;
+    float:left;
+    width:32%;
+  
+}
+
+.clearfix{
+    clear:both;
+}
